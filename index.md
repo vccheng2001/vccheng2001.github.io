@@ -1,12 +1,15 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "About Me"
 menutitle: Home
 menuorder: 1
 ---
 
-Hi! I'm Vivian Cheng from San Jose, California. 
+### Welcome! 
+I'm Vivian Cheng from San Jose, California. 
 I recently graduated from Carnegie Mellon University with
 a bachelor's and master's in Electrical & Computer Engineering. My
 interests lie in deep learning, computer vision, and 
-ML infrastructure. Welcome to my blog!
+ML infrastructure.
+
+
