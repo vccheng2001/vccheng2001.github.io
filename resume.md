@@ -19,11 +19,11 @@ __B.S.__ Electrical & Computer Engineering
 `Summer 2021 -`
 __Replicate__ | Contractor <br>
 `Fall 2021 - `
-__Stanford Asian Liver Center__ |  Research Volunteer <br>
+__Stanford Asian Liver Center__ |  Research Intern <br>
 `Fall 2021`
 __Walt Disney StudioLAB__ |  AI/ML Intern <br>
 `Summer 2021`
-__Walt Disney Enterprises__ |  Data Science Intern <br>
+__Walt Disney__ |  Data Science Intern <br>
 `Summer 2020`
 __Microsoft__ |  Silicon Verification Intern <br>
 
