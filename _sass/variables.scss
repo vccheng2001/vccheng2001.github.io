@@ -9,8 +9,8 @@
 $doc-font-size: 16;
 $doc-line-height: 30;
 $paragraph-indent: 0;
-$base-font: 'Open Sans', sans-serif;
-$heading-font: 'Open Sans', sans-serif;
+$base-font: 'Roboto Mono', serif;
+$heading-font: 'Roboto Mono', serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
 
@@ -18,7 +18,7 @@ $alt-font: $base-font;
    Colors
    ========================================================================== */
 
-$bodycolor      : #fff;
+$bodycolor      : rgb(255, 255, 255);
 $body-color     : $bodycolor;
 $textcolor      : #333332;
 $text-color     : $textcolor;
