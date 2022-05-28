@@ -5,12 +5,8 @@ menutitle: Home
 menuorder: 1
 ---
 
-I'm a 
-
-## Current Interests and Projects:
-
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+Hi! I'm Vivian Cheng from San Jose, California. 
+I recently graduated from Carnegie Mellon University with
+a bachelor's and master's in Electrical & Computer Engineering. My
+interests lie in deep learning, computer vision, and 
+ML infrastructure. Welcome to my blog!
